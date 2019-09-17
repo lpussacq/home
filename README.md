@@ -1,9 +1,6 @@
 #Home
-L'application Home est une nouvelle application qui permet de gérer des activités liées à un appartement
+L'application Home est application qui permet de gérer les activités liées à l'entretien d'un.e appartement/maison
 - payement du loyer
 - soirées
 - course
 - ...
-
-#Context
-Home est une application web à but éducative. Elle me permet d'essayer et d'explorer nodeJs.
